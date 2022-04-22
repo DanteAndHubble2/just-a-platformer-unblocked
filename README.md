@@ -4,7 +4,7 @@ Unblocked Just  platformer (frick u securly)
 
 ## Play It
 
-- [Main Game](https://danteandhubble2.github.io/just-a-platformer-unblocked/index.html)
+- [Main Game](https://danteandhubblealt.github.io/just-a-platformer-unblocked/index.html)
 
 ## Credits
 
