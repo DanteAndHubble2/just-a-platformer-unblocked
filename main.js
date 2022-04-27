@@ -20,7 +20,7 @@ var player = {
   maxJumps: 1,
   moveSpeed: 600,
   triggers: [],
-  godMode: false,
+  godMode: true,
   reachedHub: false,
   deaths: 0,
   timePlayed: 0,
